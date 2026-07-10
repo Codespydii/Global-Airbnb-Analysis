@@ -43,7 +43,7 @@ Tracks new listing volume across six market phases: Introduction → Growth → 
 | `assets/` | Dashboard screenshots |
 
 ## 🚀 How to View
-1. Download `airbnb_dashboard.pbix`
+1. Download `airbnb_dashboard.pbix` from [Google Drive](https://drive.google.com/drive/folders/1dT6dX0DGhPIZoElbEFDx3L33nL8BetWw)
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 3. Interact with slicers, drill-downs, and cross-filtering
 
