@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing **279,712 Airbnb listings** across *
 ## 📊 Dashboard Pages
 
 ### 1. Overview — Platform Lifecycle
-![Dashboard Overview](assets/airbnb_overview.png)
+![Dashboard Overview](assets/airbnb_overview.PNG)
 
 Tracks new listing volume across six market phases: Introduction → Growth → Maturity → Decline → Reinvention → COVID-19.
 
@@ -15,7 +15,7 @@ Tracks new listing volume across six market phases: Introduction → Growth → 
 - Entire Place and Private Room dominate the listing mix across all phases
 
 ### 2. Listings — Market Share by City
-![Market Share by City](assets/airbnb_listings.png)
+![Market Share by City](assets/airbnb_listings.PNG)
 
 **Key insights:**
 - **Paris, New York, and Sydney** account for nearly **half of all listings** and 48% of host reviews
@@ -24,7 +24,7 @@ Tracks new listing volume across six market phases: Introduction → Growth → 
 - Average ratings are consistently high (89–95) across all 10 cities, with Mexico City and Rio de Janeiro rated highest
 
 ### 3. Ratings & Reviews — Customer Behavior & Trust
-![Ratings and Reviews](assets/airbnb_ratings.png)
+![Ratings and Reviews](assets/airbnb_ratings.PNG)
 
 **Key insights:**
 - **98.8% of customers wrote 3 reviews or less** — most review only once (86.5%); one outlier account wrote 283 reviews (possible bot)
